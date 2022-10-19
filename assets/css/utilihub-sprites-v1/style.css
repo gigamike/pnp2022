@@ -1,0 +1,300 @@
+@font-face {
+    font-family: 'icons';
+    src:  url('fonts/icons.eot?rwgrr2');
+    src:  url('fonts/icons.eot?rwgrr2#iefix') format('embedded-opentype'),
+        url('fonts/icons.ttf?rwgrr2') format('truetype'),
+        url('fonts/icons.woff?rwgrr2') format('woff'),
+        url('fonts/icons.svg?rwgrr2#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+i.uh {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    position: relative;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.uh-lg {
+    font-size: 1.33333em;
+    line-height: 0.75em;
+    vertical-align: -.0667em; }
+
+.uh-xs {
+    font-size: .75em; }
+
+.uh-sm {
+    font-size: .875em; }
+
+.uh-1x {
+    font-size: 1em; }
+
+.uh-2x {
+    font-size: 2em; }
+
+.uh-3x {
+    font-size: 3em; }
+
+.uh-4x {
+    font-size: 4em; }
+
+.uh-5x {
+    font-size: 5em; }
+
+.uh-6x {
+    font-size: 6em; }
+
+.uh-7x {
+    font-size: 7em; }
+
+.uh-8x {
+    font-size: 8em; }
+
+.uh-9x {
+    font-size: 9em; }
+
+.uh-10x {
+    font-size: 10em; }
+
+
+i.oh:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    background: #0072bc;
+    z-index: 0;
+    content: "";
+}
+
+i.oh-outline:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid;
+    border-radius: 50%;
+    z-index: 0;
+    content: "";
+}
+
+i:before {
+    z-index: 2;
+    position: relative;
+}
+
+.uh-integration:before {
+    content: "\e900";
+}
+.uh-main-config:before {
+    content: "\e901";
+}
+.uh-my-account:before {
+    content: "\e902";
+}
+.uh-natural-gas:before {
+    content: "\e903";
+}
+.uh-agents:before {
+    content: "\e904";
+}
+.uh-analytics:before {
+    content: "\e905";
+}
+.uh-api:before {
+    content: "\e906";
+}
+.uh-appliances:before {
+    content: "\e907";
+}
+.uh-bedding:before {
+    content: "\e908";
+}
+.uh-briefcase:before {
+    content: "\e909";
+}
+.uh-broadband:before {
+    content: "\e90a";
+}
+.uh-campaign-manager:before {
+    content: "\e90b";
+}
+.uh-carpet-clean:before {
+    content: "\e90c";
+}
+.uh-cleaning:before {
+    content: "\e90d";
+}
+.uh-crm:before {
+    content: "\e90e";
+}
+.uh-customers:before {
+    content: "\e90f";
+}
+.uh-deactivated:before {
+    content: "\e910";
+}
+.uh-definitions:before {
+    content: "\e911";
+}
+.uh-dual-fuel:before {
+    content: "\e912";
+}
+.uh-edit:before {
+    content: "\e913";
+}
+.uh-electricity:before {
+    content: "\e914";
+}
+.uh-faqs:before {
+    content: "\e915";
+}
+.uh-features:before {
+    content: "\e916";
+}
+.uh-female:before {
+    content: "\e917";
+}
+.uh-finance:before {
+    content: "\e918";
+}
+.uh-gardening:before {
+    content: "\e919";
+}
+.uh-groceries:before {
+    content: "\e91a";
+}
+.uh-home-maintenance:before {
+    content: "\e91b";
+}
+.uh-home-styling:before {
+    content: "\e91c";
+}
+.uh-homewares:before {
+    content: "\e91d";
+}
+.uh-hub:before {
+    content: "\e91e";
+}
+.uh-insurance:before {
+    content: "\e91f";
+}
+.uh-laptop:before {
+    content: "\e920";
+}
+.uh-leads:before {
+    content: "\e921";
+}
+.uh-listings:before {
+    content: "\e922";
+}
+.uh-login:before {
+    content: "\e923";
+}
+.uh-logout:before {
+    content: "\e924";
+}
+.uh-mail:before {
+    content: "\e925";
+}
+.uh-maintenance:before {
+    content: "\e926";
+}
+.uh-male:before {
+    content: "\e927";
+}
+.uh-microsite:before {
+    content: "\e928";
+}
+.uh-mobile:before {
+    content: "\e929";
+}
+.uh-my-marketplace:before {
+    content: "\e92a";
+}
+.uh-packing:before {
+    content: "\e92b";
+}
+.uh-partner-setup:before {
+    content: "\e92c";
+}
+.uh-pay-tv:before {
+    content: "\e92d";
+}
+.uh-pest-control:before {
+    content: "\e92e";
+}
+.uh-refer-clients:before {
+    content: "\e92f";
+}
+.uh-removals:before {
+    content: "\e930";
+}
+.uh-reports:before {
+    content: "\e931";
+}
+.uh-reset-password:before {
+    content: "\e932";
+}
+.uh-resources:before {
+    content: "\e933";
+}
+.uh-security:before {
+    content: "\e934";
+}
+.uh-select:before {
+    content: "\e935";
+}
+.uh-services:before {
+    content: "\e936";
+}
+.uh-solar:before {
+    content: "\e937";
+}
+.uh-storage:before {
+    content: "\e938";
+}
+.uh-support:before {
+    content: "\e939";
+}
+.uh-tech:before {
+    content: "\e93a";
+}
+.uh-truck-hire:before {
+    content: "\e93b";
+}
+.uh-user-profile:before {
+    content: "\e93c";
+}
+.uh-wallet:before {
+    content: "\e93d";
+}
+.uh-water:before {
+    content: "\e93e";
+}
+.uh-admin-settings:before {
+    content: "\e93f";
+}
+.uh-terms-of-use:before {
+    content: "\e940";
+}
+.uh-menu:before {
+    content: "\e941";
+}
+.uh-activate:before {
+    content: "\e942";
+}

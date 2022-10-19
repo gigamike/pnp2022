@@ -1,0 +1,25 @@
+.settings-clickable-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .subdomain-column{
+        padding-right:0px;
+        border-right:0px;
+    }
+
+    .domain-column{
+        padding-left:0px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .domain-label{
+        display:none;
+    }
+}
+
+
+

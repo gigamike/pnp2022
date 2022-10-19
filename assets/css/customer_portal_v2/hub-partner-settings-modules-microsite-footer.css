@@ -1,0 +1,15 @@
+.dash-borders {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #d9dee1;
+}
+
+.dash-borders #footer_title-error, .dash-borders #footer_company_name-error{
+    color:red;
+    font-weight: normal;
+    font-size: 10px;;
+}
+
+.dash-borders .placeholder-control {
+    border: none;
+}

@@ -1,0 +1,7 @@
+.wizard-big.wizard > .content {
+    min-height: 100px;
+}
+
+.wizard > .steps > ul > li {
+    width: 25%;
+}

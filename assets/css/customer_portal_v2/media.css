@@ -1,0 +1,19 @@
+.my-media-list .thumbnail {
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 20px;
+    max-width: 150px;
+}
+
+
+.max-size-img{
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.btn-delete-media{
+    cursor: pointer;
+}

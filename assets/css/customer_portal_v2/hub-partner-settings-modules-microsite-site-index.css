@@ -1,0 +1,51 @@
+#previewPageModal .modal-dialog {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#previewPageModal  .modal-content {
+  height: auto;
+  min-height: 100%;
+  border-radius: 0;
+}
+
+#previewPageModal .modal-body {
+   height: 1000px;
+}
+
+
+.modal-content {
+  border-radius: 0 !important;
+}
+
+.template-list{
+  padding: 20px 20px;
+  background-color: #f3f3f3;
+}
+  
+.site-template{
+  border:1px solid #f3f3f3;
+  background-color:#f3f3f3;
+  overflow: hidden;
+}
+    
+.site-template-selected > div{
+  border: 1px solid #000;
+}
+
+.site-template .ibox-content{
+  padding-bottom: 5px;
+}
+
+#createSiteForm{
+  margin-top:20px;
+}
+
+#blank-template{
+  height:150px;
+  border:dotted 2px #f3f3f3;
+  display: table-cell;
+  vertical-align:middle;
+}
