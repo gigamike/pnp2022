@@ -6,7 +6,7 @@ Ace Mark Llentada
 
 ITMS Project KaagaPI
 
-Digitize tracking and less paperwork 
+Digitize tracking and less paperwork:
 
 From the Tagalog words "Kaagapay" and "Raspberry PI," we developed an app with a device called ITMS Project KaagaPI. ITMS Project KaagaPI is a portal with a device that is vital in monitoring of kidnapped cars to be used by our PNP government agencies (hotlist) as well as it eliminates manual tracking of in and out of cars into a facility (whitelist).
 
